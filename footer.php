@@ -18,9 +18,10 @@
               <p id="p-foot"></p>
               <p>Developped & Designed By <a href="">Oussama</a></p>
             </div>
+          </footer>
         </div>
     </div>
-  </footer>
+
     <script>
       let year = new Date().getFullYear();
       document.getElementById('p-foot').innerHTML=`Copyright &copy ${year} <a href="http://www.ens.univcasa.ma/" target="_blank" >www.ens.univcasa.ma</a>`;
